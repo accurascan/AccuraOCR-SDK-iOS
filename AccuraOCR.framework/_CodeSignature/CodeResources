@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		suEQ0kBEZf0kYF0k8QE3ibHzc5Q=
+		66NXsseuzI8LrzhRH4QvR2fA95Y=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/BCLjoy_200.emd</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/Info.plist</key>
 		<data>
-		m8naCGVFTXF7/ZCkG5rH9eoovcs=
+		f8OlsMWu8/qLrYZ5Y/46HZKGvFI=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/LMprec_600.emd</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>GoogleMVTextDetectorResources.bundle/Info.plist</key>
 		<data>
-		rcjAiZ4ndLZsR4JF4nG2ucZSazI=
+		MZanR8q8sjyPYdJpvRjr/R+XaJc=
 		</data>
 		<key>GoogleMVTextDetectorResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
 		<data>
@@ -94,11 +94,11 @@
 		</data>
 		<key>Headers/AccuraCameraWrapper.h</key>
 		<data>
-		8dPzV563n86avXyTxOZY+AEbDQo=
+		GIz3/W1Yaii1ovNQyD7GbPKWQ6I=
 		</data>
 		<key>Headers/AccuraOCR.h</key>
 		<data>
-		laDJrfODqwmCKmluqmEcq3vVvmE=
+		KyIjPG/w0tf/ddUIOCy/dAbYR+w=
 		</data>
 		<key>Headers/GlobalMethods.h</key>
 		<data>
@@ -150,7 +150,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		bdphfyJmMCZuhTuryV2KSeJ+818=
+		gzS+tgYBDAHRa1mYXtqPJBym1v8=
 		</data>
 		<key>Liveness.storyboardc/Info.plist</key>
 		<data>
@@ -158,11 +158,11 @@
 		</data>
 		<key>Liveness.storyboardc/LivenessVC.nib</key>
 		<data>
-		F7KBOMIePBq6Pf1fOQzuP2s5mTo=
+		ubQXIkyJsSABmdEfErnLAZxD6Zk=
 		</data>
 		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
 		<data>
-		a6qJl3s3bjUZlhnV+Kks9FILj3I=
+		seCRz1icJ778pXBWL/PR6x+cAIU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -199,7 +199,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EOa0YW29GQeCJ36qQX7aT2x105U1RzEB/PDM0FCEklk=
+			WVM6ePo28y21fwk2hBuVu88dzwJmI/trSY1le2uwdcU=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/BCLjoy_200.emd</key>
@@ -227,7 +227,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vCza91yHvJwYVpkF7++Uf0A7PgZsnpkNZhLrnb2Fm5E=
+			8179DzwLOP7U0g0O5mTdR13eEJV1WIC2Ug4tZu+Pm5s=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/LMprec_600.emd</key>
@@ -297,7 +297,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			F2DHwXjc+ilWDVJfir+Hdf332N40vqLn8Hbi6CYQn44=
+			stAQMjtunFDA8j8+oYjt+TZiB2P6ZxToEeq5AMV9sUk=
 			</data>
 		</dict>
 		<key>GoogleMVTextDetectorResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
@@ -353,14 +353,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gFcVXAH1X4sbnbZhlDnzaxQdOayF+Ff6K1oFstlg37g=
+			/v9phKro4SJchU0jDwvx7+EmZcYG8OpvfIO5e7Ox6Rg=
 			</data>
 		</dict>
 		<key>Headers/AccuraOCR.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			W4OzQEY502tA3powkhHLEyCLk6rudY7f+M2w9JfOtKY=
+			+h0q14NqKkzTJNM2vHdjqBfHt9JowbBwfbno5XTCQoI=
 			</data>
 		</dict>
 		<key>Headers/GlobalMethods.h</key>
@@ -458,14 +458,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			w4Ao0T48MrkMlMzPHtmDcGUGqGCv1P/GV+cf/r15fZ0=
+			HnQfDNmf69aUuZN3+aIbTtxfg79TWYOzkLv7QPM54q8=
 			</data>
 		</dict>
 		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xzR3X814DSNbJTX+xLnA3RPtfFpOA7+viDiVhn2oRe4=
+			GjdzA8SdwEzjWCCByWsQr5Vxh+lnB/k05MMg2t+uB+Q=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

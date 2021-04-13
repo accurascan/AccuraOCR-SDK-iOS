@@ -5,7 +5,7 @@
 //  Created by Chang Alex on 1/26/20.
 //  Copyright © 2020 Elite Development LLC. All rights reserved.
 //
-
+#if !TARGET_OS_WATCH
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
 #import "VideoCameraWrapperDelegate.h"
@@ -103,3 +103,4 @@ typedef NS_ENUM(NSUInteger, BarcodeType)
 
 
 @end
+#endif
