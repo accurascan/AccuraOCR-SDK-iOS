@@ -94,39 +94,19 @@
 		</data>
 		<key>Headers/AccuraCameraWrapper.h</key>
 		<data>
-		GIz3/W1Yaii1ovNQyD7GbPKWQ6I=
+		5gNOUuSNYV27azdYDqtR+2S2NUc=
 		</data>
 		<key>Headers/AccuraOCR.h</key>
 		<data>
-		KyIjPG/w0tf/ddUIOCy/dAbYR+w=
+		Cd90NngJdUYXujNfhspHtKqnbBI=
 		</data>
 		<key>Headers/GlobalMethods.h</key>
 		<data>
 		Ql9iCV4o9Ke4feWERUPl1QQhsKI=
 		</data>
-		<key>Headers/LivenessData.h</key>
-		<data>
-		YtERcD0ZLmiQWYBeiP2oUemLyU8=
-		</data>
-		<key>Headers/LivenessVC.h</key>
-		<data>
-		8R3tg+2CtVpqLYPWsEO//cJzj3I=
-		</data>
 		<key>Headers/NSObject+Constant.h</key>
 		<data>
 		abT9ACb+/smzdsRkv8oxlA1o+4s=
-		</data>
-		<key>Headers/NSObject+Liveness.h</key>
-		<data>
-		+wsSPfqcdmyF188wXUSO0JczbZs=
-		</data>
-		<key>Headers/NSObject+PostResult.h</key>
-		<data>
-		VM5QSPyrbVnK+a3s952yUxVz7Mc=
-		</data>
-		<key>Headers/NSObject+userDefaults.h</key>
-		<data>
-		bHxk4W1wqjEJPomXwggzrtDnwwI=
 		</data>
 		<key>Headers/ResultModel.h</key>
 		<data>
@@ -136,14 +116,6 @@
 		<data>
 		P7uHMvv3YqyQ/Y3K9XtjIyWWuYI=
 		</data>
-		<key>Headers/UIView+ViewExtension.h</key>
-		<data>
-		6OAdMgggA6JMz/1CtO07OVKR9Hk=
-		</data>
-		<key>Headers/UIView+customView.h</key>
-		<data>
-		voxR252dlaNTUmdecDzHHeDKqSA=
-		</data>
 		<key>Headers/VideoCameraWrapperDelegate.h</key>
 		<data>
 		mL45otmLr1aXIUcq7Ke6hYDP3YA=
@@ -151,18 +123,6 @@
 		<key>Info.plist</key>
 		<data>
 		gzS+tgYBDAHRa1mYXtqPJBym1v8=
-		</data>
-		<key>Liveness.storyboardc/Info.plist</key>
-		<data>
-		c6gnEXIXFVfD9Lr4D0mrXjRtRIk=
-		</data>
-		<key>Liveness.storyboardc/LivenessVC.nib</key>
-		<data>
-		ubQXIkyJsSABmdEfErnLAZxD6Zk=
-		</data>
-		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
-		<data>
-		seCRz1icJ778pXBWL/PR6x+cAIU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -353,14 +313,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/v9phKro4SJchU0jDwvx7+EmZcYG8OpvfIO5e7Ox6Rg=
+			HsYOKIh8H71isdhcNhN9vkb0jG4gLbXs3Cz0ZJrlW/0=
 			</data>
 		</dict>
 		<key>Headers/AccuraOCR.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+h0q14NqKkzTJNM2vHdjqBfHt9JowbBwfbno5XTCQoI=
+			+ZEGYBAGwKyVwA7jBJmO+Qzu0X/Os7LsJNVXVyLZg30=
 			</data>
 		</dict>
 		<key>Headers/GlobalMethods.h</key>
@@ -370,46 +330,11 @@
 			LtATFy+lb24LEGkyONIL0WyGfmWaxFWjaPWbAlqXMmQ=
 			</data>
 		</dict>
-		<key>Headers/LivenessData.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			aNTDS6W9odCjdxMzFsdCco5DKVjn2BmTGs0rrxUKdxU=
-			</data>
-		</dict>
-		<key>Headers/LivenessVC.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			1WMo19TMc8ZpiSGT9KPwlmpvt3kASTbcXsJD0iBMJOA=
-			</data>
-		</dict>
 		<key>Headers/NSObject+Constant.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			gsDVsJOYpZuiyFApZH2vQaBMVrEIJsNmOsyw4AYLfvU=
-			</data>
-		</dict>
-		<key>Headers/NSObject+Liveness.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			QdZjv/A7vQwuRtCem56+qq+1WjuQ7/r/X/nHscXMBZw=
-			</data>
-		</dict>
-		<key>Headers/NSObject+PostResult.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			SlnXgpN27THbyg9dkYhTLPzAoP8h14wFdGwZ1rOQSQ4=
-			</data>
-		</dict>
-		<key>Headers/NSObject+userDefaults.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			58SSyKMAzUtJadMEj5KncCs2HTQnTTFClzgs1pr4YOE=
 			</data>
 		</dict>
 		<key>Headers/ResultModel.h</key>
@@ -426,46 +351,11 @@
 			ewAKSHMm5Ckq0jenz37lNWITWJdORHOjnwaIBS/HioI=
 			</data>
 		</dict>
-		<key>Headers/UIView+ViewExtension.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			6IWGsMKWZCV74YIy9YRmg6nV/ioI60TN/c8pHmnA3Y8=
-			</data>
-		</dict>
-		<key>Headers/UIView+customView.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			4sv81fpC70ykR9Uz1H+bCedx90cmOzS18oCIWQf3Yu4=
-			</data>
-		</dict>
 		<key>Headers/VideoCameraWrapperDelegate.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			PdmqLrhm6zyx04lBbClbIUzgPgc/9dcjiBobwt5FtL4=
-			</data>
-		</dict>
-		<key>Liveness.storyboardc/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			cfa0vBbrQFAxVxoXTL+BEK7Jmrkj79KGwSQH/TR4Evs=
-			</data>
-		</dict>
-		<key>Liveness.storyboardc/LivenessVC.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			HnQfDNmf69aUuZN3+aIbTtxfg79TWYOzkLv7QPM54q8=
-			</data>
-		</dict>
-		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			GjdzA8SdwEzjWCCByWsQr5Vxh+lnB/k05MMg2t+uB+Q=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
