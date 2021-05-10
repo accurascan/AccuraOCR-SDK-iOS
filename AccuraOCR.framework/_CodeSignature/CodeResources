@@ -22,7 +22,7 @@
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/Info.plist</key>
 		<data>
-		f8OlsMWu8/qLrYZ5Y/46HZKGvFI=
+		36RX9QyEKneZtXHSw014hm52klQ=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/LMprec_600.emd</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>GoogleMVTextDetectorResources.bundle/Info.plist</key>
 		<data>
-		MZanR8q8sjyPYdJpvRjr/R+XaJc=
+		8Jlzhf9VNkz7O6xcRDTIEoCjOyw=
 		</data>
 		<key>GoogleMVTextDetectorResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
 		<data>
@@ -76,9 +76,13 @@
 		<data>
 		6ny23cax5EGQNgpJKSnhJUhpxtQ=
 		</data>
+		<key>GoogleMVTextDetectorResources.bundle/tflite_langid.tflite</key>
+		<data>
+		7HSIAQWybgEckhODNRSbO0NA3oQ=
+		</data>
 		<key>GoogleMVTextDetectorResources.bundle/tflite_lstm_recognizer_latin_0.3.bincfg</key>
 		<data>
-		ixRR2K5ZEPmzRLTzVw1N8fzeIT0=
+		66UmXr+gf7XJ71vLnqjAwes9Mnw=
 		</data>
 		<key>GoogleMVTextDetectorResources.bundle/tflite_lstm_recognizer_latin_0.3.class_lst</key>
 		<data>
@@ -94,7 +98,7 @@
 		</data>
 		<key>Headers/AccuraCameraWrapper.h</key>
 		<data>
-		5gNOUuSNYV27azdYDqtR+2S2NUc=
+		Lc0G+UTEs9B2URw74lDMM/VtQRE=
 		</data>
 		<key>Headers/AccuraOCR.h</key>
 		<data>
@@ -187,7 +191,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8179DzwLOP7U0g0O5mTdR13eEJV1WIC2Ug4tZu+Pm5s=
+			mikYQcQa4hOv9HPicS12FvbyQ/3ULguIIz7AZC54Fgs=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/LMprec_600.emd</key>
@@ -257,7 +261,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			stAQMjtunFDA8j8+oYjt+TZiB2P6ZxToEeq5AMV9sUk=
+			wdZ+zWjekPJCMemZCJmfbbADI4dwdwPj0+tL2tuHdwQ=
 			</data>
 		</dict>
 		<key>GoogleMVTextDetectorResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
@@ -281,11 +285,18 @@
 			KQajsAlTNRgTxJFzQeGXEH7SqqwtF2UIkHWNwZAnHe4=
 			</data>
 		</dict>
+		<key>GoogleMVTextDetectorResources.bundle/tflite_langid.tflite</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			g9SKOS50SMnJHvaBluGbAxQB/e5FMKcbR06Hr6dF/n0=
+			</data>
+		</dict>
 		<key>GoogleMVTextDetectorResources.bundle/tflite_lstm_recognizer_latin_0.3.bincfg</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WWAFDedH5yYOYcmXOrtzF8y39iXBQE6/iRjBKrvI7P4=
+			oFDru3MHCMhVaoh3k7h/zhLun/pRevxSBccdRiS9e8c=
 			</data>
 		</dict>
 		<key>GoogleMVTextDetectorResources.bundle/tflite_lstm_recognizer_latin_0.3.class_lst</key>
@@ -313,7 +324,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HsYOKIh8H71isdhcNhN9vkb0jG4gLbXs3Cz0ZJrlW/0=
+			w/74Ab017DZbM8LHuZo6aJdwMFOJ/Ls7LHMS5zHdGNk=
 			</data>
 		</dict>
 		<key>Headers/AccuraOCR.h</key>
