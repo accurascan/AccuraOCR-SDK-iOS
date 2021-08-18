@@ -100,6 +100,7 @@ typedef NS_ENUM(NSUInteger, BarcodeType)
 -(void)showLogFile:(bool)isShowLogs;
 -(void)changeBarcodeType:(BarcodeType)barcodetype;
 -(void)CloseOCR;
+-(NSString *)getMRZSDKVersion;
 
 
 

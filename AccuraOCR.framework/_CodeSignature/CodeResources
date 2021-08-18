@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		66NXsseuzI8LrzhRH4QvR2fA95Y=
+		CYfQueehrLd1oiwpJXJQAwExej4=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/BCLjoy_200.emd</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/Info.plist</key>
 		<data>
-		36RX9QyEKneZtXHSw014hm52klQ=
+		FDvBXei+oHN39JWiqsf8S6If86k=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/LMprec_600.emd</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>GoogleMVTextDetectorResources.bundle/Info.plist</key>
 		<data>
-		8Jlzhf9VNkz7O6xcRDTIEoCjOyw=
+		DjMy9at9gsQb2p4G8zuC+8l+F6w=
 		</data>
 		<key>GoogleMVTextDetectorResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
 		<data>
@@ -98,7 +98,7 @@
 		</data>
 		<key>Headers/AccuraCameraWrapper.h</key>
 		<data>
-		/ZwK/e82YVQH0f7C827yf+e/5as=
+		U7bwegNqbibMG/EAwfW/I1Do8oc=
 		</data>
 		<key>Headers/AccuraOCR.h</key>
 		<data>
@@ -126,7 +126,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		gzS+tgYBDAHRa1mYXtqPJBym1v8=
+		pPf3IH+ZV/0IFyf8wRJuQEgJrFs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -163,7 +163,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WVM6ePo28y21fwk2hBuVu88dzwJmI/trSY1le2uwdcU=
+			n6p19GswY+Ov30X2wlpjCBrOIKmBzOMXW2pBzQvfkDo=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/BCLjoy_200.emd</key>
@@ -191,7 +191,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mikYQcQa4hOv9HPicS12FvbyQ/3ULguIIz7AZC54Fgs=
+			VmdBbIGYV6X0nnaAILWQOTquLl7Xhp3dZqYrkM6Ztmo=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/LMprec_600.emd</key>
@@ -261,7 +261,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wdZ+zWjekPJCMemZCJmfbbADI4dwdwPj0+tL2tuHdwQ=
+			3FtIyc3idcuAkOYXO7DPz3sZnsJ3lLbXX9kr0iDUrpM=
 			</data>
 		</dict>
 		<key>GoogleMVTextDetectorResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
@@ -324,7 +324,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			e0+jjiGiKfnQp4F69cshwuaULMbsZkXb7WtpyQRA/LY=
+			X7fenRlCLzjJd2JAiQIinTNI0PykjBoVJnqtSt4rdYI=
 			</data>
 		</dict>
 		<key>Headers/AccuraOCR.h</key>
