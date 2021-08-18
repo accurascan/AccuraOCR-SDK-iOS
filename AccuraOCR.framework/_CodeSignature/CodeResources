@@ -98,7 +98,7 @@
 		</data>
 		<key>Headers/AccuraCameraWrapper.h</key>
 		<data>
-		Lc0G+UTEs9B2URw74lDMM/VtQRE=
+		/ZwK/e82YVQH0f7C827yf+e/5as=
 		</data>
 		<key>Headers/AccuraOCR.h</key>
 		<data>
@@ -110,11 +110,11 @@
 		</data>
 		<key>Headers/NSObject+Constant.h</key>
 		<data>
-		abT9ACb+/smzdsRkv8oxlA1o+4s=
+		nnxwHpQ6HsxdQdrhZvlWvBQjK0A=
 		</data>
 		<key>Headers/ResultModel.h</key>
 		<data>
-		TUkOa5gfcsg/fGaTz7eH/yUgCcQ=
+		DDswXhLGdIVhYknL3MFDk9TGV5k=
 		</data>
 		<key>Headers/SDKModels.h</key>
 		<data>
@@ -122,7 +122,7 @@
 		</data>
 		<key>Headers/VideoCameraWrapperDelegate.h</key>
 		<data>
-		mL45otmLr1aXIUcq7Ke6hYDP3YA=
+		Nh0/3tOvfjbWPFlHzYdXXui5UGc=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -324,7 +324,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			w/74Ab017DZbM8LHuZo6aJdwMFOJ/Ls7LHMS5zHdGNk=
+			e0+jjiGiKfnQp4F69cshwuaULMbsZkXb7WtpyQRA/LY=
 			</data>
 		</dict>
 		<key>Headers/AccuraOCR.h</key>
@@ -345,14 +345,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gsDVsJOYpZuiyFApZH2vQaBMVrEIJsNmOsyw4AYLfvU=
+			pg1d1Zhxoy8Bf0beF7imcJowmaQlDe/9KE55KsZbuf4=
 			</data>
 		</dict>
 		<key>Headers/ResultModel.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2PYYcHaddHrdO/q9hy9qz1HlggnUoI5If1gVU2XmYQY=
+			VuyZNg9D/zARYuLCNwx9T7/NDgTej9m6xQXsqToCPp4=
 			</data>
 		</dict>
 		<key>Headers/SDKModels.h</key>
@@ -366,7 +366,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PdmqLrhm6zyx04lBbClbIUzgPgc/9dcjiBobwt5FtL4=
+			6U++Is50kmJx/hiwPrhIZX85JAjeR44TmxbDvGs6yPg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

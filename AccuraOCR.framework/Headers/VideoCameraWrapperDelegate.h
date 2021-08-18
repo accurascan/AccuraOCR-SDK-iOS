@@ -25,7 +25,6 @@ typedef NS_ENUM(NSUInteger, RecogType) {
 
 @protocol VideoCameraWrapperDelegate <NSObject>
 @optional
--(void)recognizeSucceedBarcode:(NSString*)message barcodeImage:(UIImage*)barcodeImage;
 -(void)processedImage:(UIImage*)image;
 -(void)recognizeFailed:(NSString*)message;
 -(void)recognizeSucceed:(NSMutableDictionary*)scanedInfo recType:(RecType)recType bRecDone:(BOOL)bRecDone bFaceReplace:(BOOL)bFaceReplace bMrzFirst:(BOOL)bMrzFirst photoImage:(UIImage*)photoImage docFrontImage:(UIImage*)docFrontImage docbackImage:(UIImage*)docbackImage;
@@ -38,6 +37,9 @@ typedef NS_ENUM(NSUInteger, RecogType) {
 -(void)livenessData:(UIImage*)livenessImage andshowImage:(UIImage*)showImage;
 -(void)screenSound;
 -(void)onUpdateLayout:(CGSize)frameSize :(float)borderRatio;
+-(void)recognizeSucceedBarcode:(NSString*)message backImage:(UIImage*)BackSideImage frontImage:(UIImage*)FrontImage faceImage:(UIImage*)FaceImage;
+-(void)reco_titleMessage:(int)messageCode;
+-(void)isBothSideAvailable:(bool)isBothAvailable;
 
 
 @end
