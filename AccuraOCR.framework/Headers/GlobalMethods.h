@@ -8,6 +8,7 @@
 #import <UIKit/UIKit.h>
 #import <Foundation/Foundation.h>
 #import <AssetsLibrary/AssetsLibrary.h>
+#define APPNAME @"AccuraSDK"
 
 @interface GlobalMethods : NSObject
 

@@ -23,7 +23,6 @@ NS_ASSUME_NONNULL_BEGIN
 @property NSMutableDictionary *ocrSecurityData;
 @property NSMutableDictionary *ocrFaceBackData;
 @property NSMutableDictionary *ocrTypeData;
-@property NSMutableDictionary *ocrTypeBackData;
 
 @property NSMutableArray *arrayocrFrontSideDataKey;
 @property NSMutableArray *arrayocrFrontSideDataValue;
