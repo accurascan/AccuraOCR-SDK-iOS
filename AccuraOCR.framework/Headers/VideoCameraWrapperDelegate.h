@@ -22,19 +22,9 @@ typedef NS_ENUM(NSUInteger, RecogType) {
     PDF417,
     MRZ
 };
-typedef NS_ENUM(int, LivenessType)
-{
-    DEFAULT = 0, LOOK_LEFT = 1, LOOK_RIGHT = 2, ORAL_VERIFICATION = 3, APPROVED = 4
-};
-typedef NS_ENUM(int, ContentType)
-{
-    form_data = 0,
-    raw_data = 1
-};
 
 @protocol VideoCameraWrapperDelegate <NSObject>
 @optional
--(void)recognizeSucceedBarcode:(NSString*)message;
 -(void)processedImage:(UIImage*)image;
 -(void)recognizeFailed:(NSString*)message;
 -(void)recognizeSucceed:(NSMutableDictionary*)scanedInfo recType:(RecType)recType bRecDone:(BOOL)bRecDone bFaceReplace:(BOOL)bFaceReplace bMrzFirst:(BOOL)bMrzFirst photoImage:(UIImage*)photoImage docFrontImage:(UIImage*)docFrontImage docbackImage:(UIImage*)docbackImage;
@@ -44,16 +34,12 @@ typedef NS_ENUM(int, ContentType)
 
 -(void)resultData:(ResultModel*)resultmodel;
 -(void)reco_msg:(NSString*)message;
-//-(void)livenessData:(UIImage*)livenessImage andshowImage:(UIImage*)showImage imagePath:(NSString*)imagePath;
+-(void)livenessData:(UIImage*)livenessImage andshowImage:(UIImage*)showImage;
 -(void)screenSound;
 -(void)onUpdateLayout:(CGSize)frameSize :(float)borderRatio;
--(void)HandleCloseButton:(bool)isCloseButtonHide;
 -(void)recognizeSucceedBarcode:(NSString*)message backImage:(UIImage*)BackSideImage frontImage:(UIImage*)FrontImage faceImage:(UIImage*)FaceImage;
 -(void)reco_titleMessage:(int)messageCode;
 -(void)isBothSideAvailable:(bool)isBothAvailable;
-//-(void)showAnimatedImage:(LivenessType)livenessType;
-//-(void)didChangedLivenessType:(LivenessType)faceDirection;
-//-(void)getRandomNumber:(NSString*)randomNumber;
 
 
 @end
