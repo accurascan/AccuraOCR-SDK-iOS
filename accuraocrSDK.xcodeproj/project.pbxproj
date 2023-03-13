@@ -7,11 +7,26 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		184F0BAC24DD7255007B7C3E /* AccuraOCR.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 184F0BAB24DD7255007B7C3E /* AccuraOCR.framework */; };
+		6655FA4E29BEE8560092FF3C /* AccuraOCR.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 184F0BAB24DD7255007B7C3E /* AccuraOCR.framework */; };
+		6655FA4F29BEE8560092FF3C /* AccuraOCR.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 184F0BAB24DD7255007B7C3E /* AccuraOCR.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		A3CC7FB024A45E520046694A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A3CC7FAE24A45E520046694A /* Main.storyboard */; };
 		A3CC7FB224A45E530046694A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A3CC7FB124A45E530046694A /* Assets.xcassets */; };
 		A3CC7FB524A45E530046694A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A3CC7FB324A45E530046694A /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		6655FA5029BEE8560092FF3C /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				6655FA4F29BEE8560092FF3C /* AccuraOCR.framework in Embed Frameworks */,
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
 		184F0BAB24DD7255007B7C3E /* AccuraOCR.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = AccuraOCR.framework; sourceTree = "<group>"; };
@@ -27,7 +42,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				184F0BAC24DD7255007B7C3E /* AccuraOCR.framework in Frameworks */,
+				6655FA4E29BEE8560092FF3C /* AccuraOCR.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -72,6 +87,7 @@
 				A3CC7FA124A45E520046694A /* Sources */,
 				A3CC7FA224A45E520046694A /* Frameworks */,
 				A3CC7FA324A45E520046694A /* Resources */,
+				6655FA5029BEE8560092FF3C /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
