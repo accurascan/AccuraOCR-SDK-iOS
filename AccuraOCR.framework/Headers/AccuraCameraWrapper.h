@@ -67,7 +67,6 @@ typedef NS_ENUM(NSUInteger, BarcodeType)
 - (SDKModels *)loadEngine:(NSString *)url;
 -(void)setDefaultDialogs:(bool)isShowErrorDialogs;
 - (NSMutableArray *)getOCRList;
--(id)initWithDelegate:(UIViewController<VideoCameraWrapperDelegate>*)delegate;
 
 -(id)initWithDelegate:(UIViewController<VideoCameraWrapperDelegate>*)delegate andImageView:(UIImageView *)iv andLabelMsg:(UILabel*)l andurl:(NSString*)url cardId:(int)cardId countryID:(int)countryID isScanOCR:(bool)isScanOCR andcardName:(NSString*)cardName andcardType:(int)cardType andMRZDocType:(int)MRZDocumentType;
 -(id)initWithDelegate:(UIViewController<VideoCameraWrapperDelegate>*)delegate andImageView:(UIImageView *)iv andLabelMsg:(UILabel*)l andurl:(int)url  isBarcodeEnable:(bool)isBE countryID:(int)countryID setBarcodeType:(BarcodeType)setBarcodeType;
@@ -102,7 +101,7 @@ typedef NS_ENUM(NSUInteger, BarcodeType)
 -(void)changeBarcodeType:(BarcodeType)barcodetype;
 -(void)CloseOCR;
 -(NSString *)getMRZSDKVersion;
--(void)startNFCForPassport:(NSString *)DOB DOE:(NSString *)DOE PassportNumber:(NSString *)PassportNumber;
+
 
 
 @end

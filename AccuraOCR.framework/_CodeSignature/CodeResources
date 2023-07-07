@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		ojkSkyQQe8fjOsekV5ocPzreeUo=
+		MPLFDghY8RjSQd6PBTX5yaF8+aQ=
 		</data>
 		<key>ChineseOCRResources.bundle/Info.plist</key>
 		<data>
@@ -78,11 +78,7 @@
 		</data>
 		<key>Headers/AccuraCameraWrapper.h</key>
 		<data>
-		Xof/hmbJ3MP268PRL96JrBN1CJU=
-		</data>
-		<key>Headers/AccuraOCR-Swift.h</key>
-		<data>
-		QSD4buNB8pZjnKwA0wHRsHXK/W4=
+		U7bwegNqbibMG/EAwfW/I1Do8oc=
 		</data>
 		<key>Headers/AccuraOCR.h</key>
 		<data>
@@ -106,11 +102,11 @@
 		</data>
 		<key>Headers/VideoCameraWrapperDelegate.h</key>
 		<data>
-		SuOw1/ea3qVTOBr24LeOGwE3eRs=
+		Nh0/3tOvfjbWPFlHzYdXXui5UGc=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		+zr/S0pIrD/NpUmzwpEKA1WnpEI=
+		B6barmUP9ak6sVVyuZPtX8pr/Hk=
 		</data>
 		<key>JapaneseOCRResources.bundle/Info.plist</key>
 		<data>
@@ -276,33 +272,9 @@
 		<data>
 		oYS7+p9yJEEy3UOE1YgjDNNbLAM=
 		</data>
-		<key>Modules/AccuraOCR.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
-		<data>
-		WXvB/f7d/0KhpZ5R0rlxH2mZ1/0=
-		</data>
-		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios.abi.json</key>
-		<data>
-		byr29hdPLD+8t2cI2uo4nohNfGE=
-		</data>
-		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
-		<data>
-		Uf1VqYCbNy+pzKPxIjt7y8pRS+0=
-		</data>
-		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios.swiftdoc</key>
-		<data>
-		JMOAffarTYWGm5bZ+sec0kj67z0=
-		</data>
-		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios.swiftinterface</key>
-		<data>
-		Uf1VqYCbNy+pzKPxIjt7y8pRS+0=
-		</data>
-		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios.swiftmodule</key>
-		<data>
-		EMIwMrcEnDOPDAeofTezV1oVu7E=
-		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		Ainp9wDMjHErFTBqaHuCsPLVRtU=
+		lm4B+dtckRQRK9HtfIF5ZfH2h7A=
 		</data>
 		<key>ZoomHybrid.pub</key>
 		<data>
@@ -335,7 +307,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AT6QtZW60f8JgWAzzcxVrhrI8xsA2zLwcL/luNjBdFA=
+			IIWDYyWbo0kM2EYPS18ueLFBd6JKhssjJzeIWooHny0=
 			</data>
 		</dict>
 		<key>ChineseOCRResources.bundle/Info.plist</key>
@@ -461,14 +433,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GqHeqS9Sd5/fghjzDwRML94y6LHt+PtovGtyfnVXk5A=
-			</data>
-		</dict>
-		<key>Headers/AccuraOCR-Swift.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ePVS2iq7byZPYjVOOFL3cz2Cx5YXNzJ9FduIn8mhjL0=
+			X7fenRlCLzjJd2JAiQIinTNI0PykjBoVJnqtSt4rdYI=
 			</data>
 		</dict>
 		<key>Headers/AccuraOCR.h</key>
@@ -510,7 +475,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ORJ9EeVwf/+tq6NmIezbVuWjKkSgNrinnA0CYRJxuRI=
+			6U++Is50kmJx/hiwPrhIZX85JAjeR44TmxbDvGs6yPg=
 			</data>
 		</dict>
 		<key>JapaneseOCRResources.bundle/Info.plist</key>
@@ -800,53 +765,11 @@
 			DtYuT74PxcQJCuxHOxNuGI+ChZB2XAKDgjWNrds8y24=
 			</data>
 		</dict>
-		<key>Modules/AccuraOCR.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			0sk3EQROuAqXzrsjfB5bUKTwyVp32vVIk6ZjmG/vImg=
-			</data>
-		</dict>
-		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios.abi.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			yKwoAkl36uoJIjYipdgprZgFtkRNftWlwex6qeRUe+c=
-			</data>
-		</dict>
-		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			aN36WXg17tCJ8dmcLQgX3rL3P5pbUm2iYwTRC9JDBOI=
-			</data>
-		</dict>
-		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			RR3chqFsOlH0iMDa88wIjs0jdYA+mfG225nCOKoEce4=
-			</data>
-		</dict>
-		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			aN36WXg17tCJ8dmcLQgX3rL3P5pbUm2iYwTRC9JDBOI=
-			</data>
-		</dict>
-		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			xnMUXrUeEO8Cb+1OW4u9trPNMWqxGZfoKD4LvCBpuUE=
-			</data>
-		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qbU9z8l5bCUg7tNucstFqLya1DztX+9/VfZ+51i1i14=
+			p12LVWErLi7caihL3csJqDbC/R0SjHVguINvKgxbhBU=
 			</data>
 		</dict>
 		<key>ZoomHybrid.pub</key>

@@ -40,7 +40,6 @@ typedef NS_ENUM(NSUInteger, RecogType) {
 -(void)recognizeSucceedBarcode:(NSString*)message backImage:(UIImage*)BackSideImage frontImage:(UIImage*)FrontImage faceImage:(UIImage*)FaceImage;
 -(void)reco_titleMessage:(int)messageCode;
 -(void)isBothSideAvailable:(bool)isBothAvailable;
--(void)nfcData:(NSArray *)NFCKey NFCValue:(NSArray *)NFCValue Face:(UIImage *)face;
--(void)nfcError:(NSString *)error;
+
 
 @end
