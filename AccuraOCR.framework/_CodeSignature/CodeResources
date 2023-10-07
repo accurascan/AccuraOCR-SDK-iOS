@@ -6,11 +6,31 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		QqdW1W8qh3pTtoO6YZUsqX+gUPM=
+		MPLFDghY8RjSQd6PBTX5yaF8+aQ=
 		</data>
 		<key>ChineseOCRResources.bundle/Info.plist</key>
 		<data>
-		cSaYEzhJl9FPD3KGQRN38BXHjq4=
+		ePLMamUkxT2OTPEZ0z9jRN18+v0=
+		</data>
+		<key>ChineseOCRResources.bundle/_CodeSignature/CodeDirectory</key>
+		<data>
+		R+yYF2OEM4YVlp+1FRXpfQLfbpg=
+		</data>
+		<key>ChineseOCRResources.bundle/_CodeSignature/CodeRequirements</key>
+		<data>
+		pnE719UTFf6jcuitUXca9iRZ2FQ=
+		</data>
+		<key>ChineseOCRResources.bundle/_CodeSignature/CodeRequirements-1</key>
+		<data>
+		IrfNFOM+bElVRxN15uM7ncf7xXU=
+		</data>
+		<key>ChineseOCRResources.bundle/_CodeSignature/CodeResources</key>
+		<data>
+		U7XvB7ACuKiZYf+r/IknDR4Wvvg=
+		</data>
+		<key>ChineseOCRResources.bundle/_CodeSignature/CodeSignature</key>
+		<data>
+		OczCBBnVFzfOt9cp6b7q3n+2mkk=
 		</data>
 		<key>ChineseOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
 		<data>
@@ -78,7 +98,7 @@
 		</data>
 		<key>Headers/AccuraCameraWrapper.h</key>
 		<data>
-		U7bwegNqbibMG/EAwfW/I1Do8oc=
+		e/AP2hyvm6Cs8By0uAlj0DK/gUU=
 		</data>
 		<key>Headers/AccuraOCR.h</key>
 		<data>
@@ -106,11 +126,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		iSR9U8dkiQoIvWsyQd+jQzLv/dU=
+		B6barmUP9ak6sVVyuZPtX8pr/Hk=
 		</data>
 		<key>JapaneseOCRResources.bundle/Info.plist</key>
 		<data>
-		KTAK6m/l8oK1Hiv7TLgS9qpydjQ=
+		FKUDz8rdm2J/J5YHXjpcxp6F/Js=
+		</data>
+		<key>JapaneseOCRResources.bundle/_CodeSignature/CodeDirectory</key>
+		<data>
+		b9PF5wsKqi7bcrIoEexBm+ELn8s=
+		</data>
+		<key>JapaneseOCRResources.bundle/_CodeSignature/CodeRequirements</key>
+		<data>
+		JC9zHrpvc9iPpRPi5afhYch1eFI=
+		</data>
+		<key>JapaneseOCRResources.bundle/_CodeSignature/CodeRequirements-1</key>
+		<data>
+		hAyK8boFHn7xePocNPg5hCb5EmE=
+		</data>
+		<key>JapaneseOCRResources.bundle/_CodeSignature/CodeResources</key>
+		<data>
+		xn7swnsu8Ml9ronclx/imCShCSs=
+		</data>
+		<key>JapaneseOCRResources.bundle/_CodeSignature/CodeSignature</key>
+		<data>
+		pm2lX5Sl9h58F2thG5QuDsIZis8=
 		</data>
 		<key>JapaneseOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
 		<data>
@@ -174,7 +214,27 @@
 		</data>
 		<key>KoreanOCRResources.bundle/Info.plist</key>
 		<data>
-		LMrGt1DkA2gvdC6vEFIZ7rgSBJc=
+		aaKjZd/H11RkDvW+7w2KQxCcgMk=
+		</data>
+		<key>KoreanOCRResources.bundle/_CodeSignature/CodeDirectory</key>
+		<data>
+		HgsKrr971zrbUtfAoJJ5vFttwK4=
+		</data>
+		<key>KoreanOCRResources.bundle/_CodeSignature/CodeRequirements</key>
+		<data>
+		kLZbxUyiEfHkbE4j2Eid0o7gwm8=
+		</data>
+		<key>KoreanOCRResources.bundle/_CodeSignature/CodeRequirements-1</key>
+		<data>
+		QnCSoA1GKLuZdvDjcgdLbi2Ftq0=
+		</data>
+		<key>KoreanOCRResources.bundle/_CodeSignature/CodeResources</key>
+		<data>
+		CQysp4ai5zI+GqqewdpYagFxzo4=
+		</data>
+		<key>KoreanOCRResources.bundle/_CodeSignature/CodeSignature</key>
+		<data>
+		L8I1zvoZe0zZD/xxhdtA7wz+Z3M=
 		</data>
 		<key>KoreanOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
 		<data>
@@ -238,7 +298,27 @@
 		</data>
 		<key>LatinOCRResources.bundle/Info.plist</key>
 		<data>
-		Q+5pF0gDZ712NVr+Y55JQO/BX5U=
+		rVJogKmryiLyq3beDpKQDF4ypEg=
+		</data>
+		<key>LatinOCRResources.bundle/_CodeSignature/CodeDirectory</key>
+		<data>
+		cc+wh/NM4M8wq7lH164wxe0vCk4=
+		</data>
+		<key>LatinOCRResources.bundle/_CodeSignature/CodeRequirements</key>
+		<data>
+		up6O+RNrnp8uZiBM9koyTWYAKj0=
+		</data>
+		<key>LatinOCRResources.bundle/_CodeSignature/CodeRequirements-1</key>
+		<data>
+		3v+SY/NRkJFEYBI6uzSstWRwVOM=
+		</data>
+		<key>LatinOCRResources.bundle/_CodeSignature/CodeResources</key>
+		<data>
+		wAcvRDpr4WwSmhX9K6fHkl08qbg=
+		</data>
+		<key>LatinOCRResources.bundle/_CodeSignature/CodeSignature</key>
+		<data>
+		T8grYZSZMu5YwdxCLiiM4I0jJRw=
 		</data>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
 		<data>
@@ -292,14 +372,6 @@
 		<data>
 		y/e5l/CcgWM//QQSePyQnMd+ahA=
 		</data>
-		<key>model1.dat</key>
-		<data>
-		3hLGO7CdwyE9Dhv/vJmQ5VS5gLM=
-		</data>
-		<key>model2.dat</key>
-		<data>
-		KI/UN33nya2KZ/QVrhqKPo+vgZ0=
-		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -307,14 +379,49 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pfiXPDRdwH6FuzYlEtyBnxLZBA0GldqFBrVxhPFQ8Rk=
+			IIWDYyWbo0kM2EYPS18ueLFBd6JKhssjJzeIWooHny0=
 			</data>
 		</dict>
 		<key>ChineseOCRResources.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Zds5ZD8xqtZoEicI5ub3vi5w+GjddORGxq2eMH6b6uo=
+			Ia5yzle910f3llDWOBKrD8s6adRxtIg3i4hDPheyELc=
+			</data>
+		</dict>
+		<key>ChineseOCRResources.bundle/_CodeSignature/CodeDirectory</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FuOYkJ66efP2xc1hqsiJKWPQaYXQsJZ1qCGxbD6H3zc=
+			</data>
+		</dict>
+		<key>ChineseOCRResources.bundle/_CodeSignature/CodeRequirements</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7ZZHaVbw/duUbJV1yUdHo7/K0URD9y+nOfMb+nESnoY=
+			</data>
+		</dict>
+		<key>ChineseOCRResources.bundle/_CodeSignature/CodeRequirements-1</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cLXOH6Ffub16Tx31OBZQHTsLu65rQv4TRpEdnch1qjg=
+			</data>
+		</dict>
+		<key>ChineseOCRResources.bundle/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			aZiv910HewxxvDfaIAoLgkNeGbQLi8yt1Wu9pNH/Sbs=
+			</data>
+		</dict>
+		<key>ChineseOCRResources.bundle/_CodeSignature/CodeSignature</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KxJqkNQLUokEc/KOpqMDUWbL2sOBN37Vd0VHsDP34e4=
 			</data>
 		</dict>
 		<key>ChineseOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
@@ -433,7 +540,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			X7fenRlCLzjJd2JAiQIinTNI0PykjBoVJnqtSt4rdYI=
+			hBiLh2/92Qm9k9LkM0V4Zr/5tnFFpdOhxWgdtNeR+1k=
 			</data>
 		</dict>
 		<key>Headers/AccuraOCR.h</key>
@@ -482,7 +589,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BU7VpAcuCSW21EANc5bvlYci9HD6WIA6SCloFPwsoME=
+			UbvkTWKY7Gk7XYdFqPve5x0PmGgZXXYGmPchjvSk+qc=
+			</data>
+		</dict>
+		<key>JapaneseOCRResources.bundle/_CodeSignature/CodeDirectory</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KxcGEo2fW3lPLDIZOLsNu3s6MyOLQ7OC3L8GV6T7s/8=
+			</data>
+		</dict>
+		<key>JapaneseOCRResources.bundle/_CodeSignature/CodeRequirements</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CNeUIqCkUCXS3AKpV7ZjnbWkpDHMeaNAgOpiFNQIjsE=
+			</data>
+		</dict>
+		<key>JapaneseOCRResources.bundle/_CodeSignature/CodeRequirements-1</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wOFelZHaN2jJHn9xwxjbfC9f+L0yYoD3CGoYa6SQKYM=
+			</data>
+		</dict>
+		<key>JapaneseOCRResources.bundle/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DqLN93lS75QvQ4qmyb1c2gAZXHbnaNbqSkod21wgb6g=
+			</data>
+		</dict>
+		<key>JapaneseOCRResources.bundle/_CodeSignature/CodeSignature</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gRxabiBE1O+I2xn+NuJ7AFJgKzkz/TdY5UkMPc0PI+M=
 			</data>
 		</dict>
 		<key>JapaneseOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
@@ -594,7 +736,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8c4qNCiMNKKd+XYlbTa76qeToNe2doEvwJP2d5IjQpQ=
+			b4SD0GQvFp0sx0ohi3Db+ka/ZuF6uWf6VwbZFzOw2nw=
+			</data>
+		</dict>
+		<key>KoreanOCRResources.bundle/_CodeSignature/CodeDirectory</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			h0Kxs4v0PNex1sW6PSSikjvG9nzK9Vgdm9eotKmFjhI=
+			</data>
+		</dict>
+		<key>KoreanOCRResources.bundle/_CodeSignature/CodeRequirements</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/8PvJKYZOQlYI4cibFKTFcQgoR2tqa8P/NmI41WneV8=
+			</data>
+		</dict>
+		<key>KoreanOCRResources.bundle/_CodeSignature/CodeRequirements-1</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BWGqwn4Pab/7hwGJjxuEtX7FaI3UNjzrRxEfEnIfhIM=
+			</data>
+		</dict>
+		<key>KoreanOCRResources.bundle/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3uoyiUDPh1rlUHKpJWd9pz2O/KBMbv2E0u8PG/uQL1A=
+			</data>
+		</dict>
+		<key>KoreanOCRResources.bundle/_CodeSignature/CodeSignature</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1iHQVfAMGJyTExq4eZI6J+gemMRKibOK3VxwP8qXKfo=
 			</data>
 		</dict>
 		<key>KoreanOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
@@ -706,7 +883,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OY2s6bp8bt3ooyuhyeBf5Qhiz06PCy3J3Q7BFcyQNYw=
+			+ZxnpnOiAN9p6yMKQT0qgxI4uRib1+iBPklgr5HERI4=
+			</data>
+		</dict>
+		<key>LatinOCRResources.bundle/_CodeSignature/CodeDirectory</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			F51FcKh4+pAZt9d0kzC2WAGSgUZFwnTD7OskDUJ1kaQ=
+			</data>
+		</dict>
+		<key>LatinOCRResources.bundle/_CodeSignature/CodeRequirements</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			q87cciLhg9DeE4i2mmTgCE/2E/rIrwd5HWzd7da0itA=
+			</data>
+		</dict>
+		<key>LatinOCRResources.bundle/_CodeSignature/CodeRequirements-1</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			D8tfVCbwJstE79gNGmr/vFlXejymunqCB3FlNHP0RMA=
+			</data>
+		</dict>
+		<key>LatinOCRResources.bundle/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			invF7KpCHCac7fmWM4LSKwZVfsuUXzSgywbk4dGvZ3c=
+			</data>
+		</dict>
+		<key>LatinOCRResources.bundle/_CodeSignature/CodeSignature</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			13usKYKUgtAOnb3RSlXTMi4w3cxg7P9RjE2tqdGl0D0=
 			</data>
 		</dict>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
@@ -798,20 +1010,6 @@
 			<key>hash2</key>
 			<data>
 			LmEaKouzvpVcdLOgQooNbgZxJxuqHBk36CG9UNzVEPM=
-			</data>
-		</dict>
-		<key>model1.dat</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			6UKuwdV+jJr5Mf6LCOjdq8kqkrLvj6Pr9msHlAfCZ0Y=
-			</data>
-		</dict>
-		<key>model2.dat</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			W2r1A1b+3he9yJ+E9Rh+nzJ1SSkg0XePSttx+1e4MOQ=
 			</data>
 		</dict>
 	</dict>
