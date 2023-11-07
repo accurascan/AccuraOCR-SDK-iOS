@@ -17,6 +17,7 @@ NS_ASSUME_NONNULL_BEGIN
 @property BOOL isOCREnable;
 @property BOOL isBankCardEnable;
 @property BOOL isBarcodeEnable;
+@property BOOL isNFCEnable;
 
 @end
 
