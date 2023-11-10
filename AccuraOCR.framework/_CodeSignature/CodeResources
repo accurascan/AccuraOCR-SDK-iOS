@@ -30,7 +30,7 @@
 		</data>
 		<key>ChineseOCRResources.bundle/_CodeSignature/CodeSignature</key>
 		<data>
-		OczCBBnVFzfOt9cp6b7q3n+2mkk=
+		AZZkWHsin5Ed8ehFB0gDc90utD8=
 		</data>
 		<key>ChineseOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
 		<data>
@@ -150,7 +150,7 @@
 		</data>
 		<key>JapaneseOCRResources.bundle/_CodeSignature/CodeSignature</key>
 		<data>
-		pm2lX5Sl9h58F2thG5QuDsIZis8=
+		Oks4Rl+ceG1I8t9AVM2dB0xDZi4=
 		</data>
 		<key>JapaneseOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
 		<data>
@@ -234,7 +234,7 @@
 		</data>
 		<key>KoreanOCRResources.bundle/_CodeSignature/CodeSignature</key>
 		<data>
-		L8I1zvoZe0zZD/xxhdtA7wz+Z3M=
+		iFBRkWryL4QIMLDgwi3ViT/YkHw=
 		</data>
 		<key>KoreanOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
 		<data>
@@ -318,7 +318,7 @@
 		</data>
 		<key>LatinOCRResources.bundle/_CodeSignature/CodeSignature</key>
 		<data>
-		T8grYZSZMu5YwdxCLiiM4I0jJRw=
+		ooDDdM9YjKulseLLVn72sQJEgc4=
 		</data>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
 		<data>
@@ -421,7 +421,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KxJqkNQLUokEc/KOpqMDUWbL2sOBN37Vd0VHsDP34e4=
+			wSV1Cwg5JBkEGKDkdSV2QCFDNhqHor7VdlCEFEeCFkk=
 			</data>
 		</dict>
 		<key>ChineseOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
@@ -624,7 +624,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gRxabiBE1O+I2xn+NuJ7AFJgKzkz/TdY5UkMPc0PI+M=
+			w70hYLsUpVvIHJyaSfmLDp/HL/Rt1waBCNM1/M2BMl4=
 			</data>
 		</dict>
 		<key>JapaneseOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
@@ -771,7 +771,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1iHQVfAMGJyTExq4eZI6J+gemMRKibOK3VxwP8qXKfo=
+			OkUJXgBb9kZGjt4EbcE0sufnLoJ67RvVzMxfXSnPP9A=
 			</data>
 		</dict>
 		<key>KoreanOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
@@ -918,7 +918,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			13usKYKUgtAOnb3RSlXTMi4w3cxg7P9RjE2tqdGl0D0=
+			ebxoCqkpMI3TEZUmFQSt9kEk9kNe1MKKodWGdbeq76A=
 			</data>
 		</dict>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
