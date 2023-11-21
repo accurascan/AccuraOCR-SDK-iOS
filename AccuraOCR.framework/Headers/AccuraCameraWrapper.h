@@ -43,10 +43,7 @@ typedef NS_ENUM(NSUInteger, BarcodeType)
     all
 };
 
-typedef NS_ENUM(NSInteger, CardSidetoScan) {
-    Front,
-    Back,
-};
+
 
 @interface AccuraCameraWrapper : NSObject
 
@@ -54,7 +51,6 @@ typedef NS_ENUM(NSInteger, CardSidetoScan) {
     CameraFacing Camerafacing;
     CardSide ScanCard;
     BarcodeType barCodeType;
-    CardSidetoScan cardSidetoScan;
     BOOL _isCapturing;
     BOOL _isMotion;
     NSThread *thread;
@@ -75,7 +71,6 @@ typedef NS_ENUM(NSInteger, CardSidetoScan) {
 -(id)initWithDelegate:(UIViewController<VideoCameraWrapperDelegate>*)delegate andImageView:(UIImageView *)iv andLabelMsg:(UILabel*)l andurl:(NSString*)url cardId:(int)cardId countryID:(int)countryID isScanOCR:(bool)isScanOCR andcardName:(NSString*)cardName andcardType:(int)cardType andMRZDocType:(int)MRZDocumentType;
 -(id)initWithDelegate:(UIViewController<VideoCameraWrapperDelegate>*)delegate andImageView:(UIImageView *)iv andLabelMsg:(UILabel*)l andurl:(int)url  isBarcodeEnable:(bool)isBE countryID:(int)countryID setBarcodeType:(BarcodeType)setBarcodeType;
 
--(id)initWithDelegate:(UIViewController<VideoCameraWrapperDelegate>*)delegate cardId:(int)cardId countryID:(int)countryID isScanOCR:(bool)isScanOCR andcardName:(NSString*)cardName andcardType:(int)cardType;
 //-(id)initWithDelegate:(UIViewController<VideoCameraWrapperDelegate>*)delegate andImageView:(UIImageView *)iv andMsgLabel:(UILabel*)l andfeedBackframeMessage:(NSString*)feedBackframeMessage andfeedBackAwayMessage:(NSString*)feedBackAwayMessage andfeedBackOpenEyesMessage:(NSString*)feedBackOpenEyesMessage andfeedBackCloserMessage:(NSString*)feedBackCloserMessage andfeedBackCenterMessage:(NSString*)feedBackCenterMessage andfeedBackMultipleFaceMessage:(NSString*)feedBackMultipleFaceMessage andfeedBackFaceSteady:(NSString*)feedBackFaceSteady andfeedBackLowLightMessage:(NSString*)feedBackLowLightMessage andfeedBackBlurFaceMessage:(NSString*)feedBackBlurFaceMessage andfeedBackGlareFaceMessage:(NSString*)feedBackGlareFaceMessage andcheckLivess:(bool)checkLivenss;
 
 -(void)startCamera;
@@ -106,9 +101,7 @@ typedef NS_ENUM(NSInteger, CardSidetoScan) {
 -(void)changeBarcodeType:(BarcodeType)barcodetype;
 -(void)CloseOCR;
 -(NSString *)getMRZSDKVersion;
--(void)getMRZDetails:(UIImage *)image isFace:(bool)isFace;
--(void)getOCRDetails:(UIImage *)image isBack:(CardSidetoScan)side;
--(bool)isBackSideAvailable;
+
 
 
 @end

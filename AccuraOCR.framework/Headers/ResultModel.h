@@ -18,6 +18,7 @@ NS_ASSUME_NONNULL_BEGIN
 @property UIImage *backSideImage;
 @property UIImage *faceImage;
 
+@property bool isBackSide;
 
 @property NSMutableDictionary *ocrFaceFrontData;
 @property NSMutableDictionary *ocrSecurityData;
