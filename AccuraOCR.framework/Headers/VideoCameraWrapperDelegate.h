@@ -40,6 +40,6 @@ typedef NS_ENUM(NSUInteger, RecogType) {
 -(void)recognizeSucceedBarcode:(NSString*)message backImage:(UIImage*)BackSideImage frontImage:(UIImage*)FrontImage faceImage:(UIImage*)FaceImage;
 -(void)reco_titleMessage:(int)messageCode;
 -(void)isBothSideAvailable:(bool)isBothAvailable;
-
+-(void)onAPIError:(NSString *)error;
 
 @end
