@@ -1,2 +1,5 @@
+AccuraOCR.xcframework/ios-arm64/AccuraOCR.framework/AccuraOCR filter=lfs diff=lfs merge=lfs -text
+AccuraOCR.xcframework/ios-x86_64-simulator/AccuraOCR.framework/AccuraOCR filter=lfs diff=lfs merge=lfs -text
+
 Framework/Release/AccuraOCR-SDK-iOS/AccuraOCR.xcframework/ios-arm64/AccuraOCR.framework/AccuraOCR filter=lfs diff=lfs merge=lfs -text
 Framework/Release/AccuraOCR-SDK-iOS/AccuraOCR.xcframework/ios-x86_64-simulator/AccuraOCR.framework/AccuraOCR filter=lfs diff=lfs merge=lfs -text
