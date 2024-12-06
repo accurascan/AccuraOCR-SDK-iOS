@@ -76,10 +76,6 @@
 		<data>
 		a42NKC8AYfpIqKXU1P09wssgiko=
 		</data>
-		<key>e13best.traineddata</key>
-		<data>
-		69FekeueXJFXku9xqTeU3F+ikOM=
-		</data>
 		<key>fdata.xml</key>
 		<data>
 		8MEF54k9TRXjJg++ew/DmG4lAg8=
@@ -91,6 +87,10 @@
 		<key>mMQDF_f_Passport_bottom_Gray.dic</key>
 		<data>
 		y/e5l/CcgWM//QQSePyQnMd+ahA=
+		</data>
+		<key>mcr2.traineddata</key>
+		<data>
+		69FekeueXJFXku9xqTeU3F+ikOM=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -214,13 +214,6 @@
 			zEbjfQYuo7pNlXenrRr/X0hMrvgL86AR291RUg9UnGE=
 			</data>
 		</dict>
-		<key>e13best.traineddata</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ga+4Ht0/8LNqjli/piMRBWF0ZzNNUHIHId5BXB67hj4=
-			</data>
-		</dict>
 		<key>fdata.xml</key>
 		<dict>
 			<key>hash2</key>
@@ -240,6 +233,13 @@
 			<key>hash2</key>
 			<data>
 			LmEaKouzvpVcdLOgQooNbgZxJxuqHBk36CG9UNzVEPM=
+			</data>
+		</dict>
+		<key>mcr2.traineddata</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ga+4Ht0/8LNqjli/piMRBWF0ZzNNUHIHId5BXB67hj4=
 			</data>
 		</dict>
 	</dict>
