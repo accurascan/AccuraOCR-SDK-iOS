@@ -41,5 +41,5 @@ typedef NS_ENUM(NSUInteger, RecogType) {
 -(void)reco_titleMessage:(int)messageCode;
 -(void)isBothSideAvailable:(bool)isBothAvailable;
 -(void)onAPIError:(NSString *)error;
-
+-(void)recognizeSucceedMICR:(NSString*)scanedInfo photoImage:(UIImage*)photoImage;
 @end
