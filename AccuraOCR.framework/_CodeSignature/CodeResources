@@ -14,7 +14,7 @@
 		</data>
 		<key>Headers/AccuraOCR-Swift.h</key>
 		<data>
-		HAj28H0cF4QfUErU0cUiIz+RqOA=
+		gIBTPPMdsxB7nGj/lB8WINeNiMk=
 		</data>
 		<key>Headers/AccuraOCR.h</key>
 		<data>
@@ -42,19 +42,43 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		0DBPYjHYyD1n3INdlHR6pRZ4MhE=
+		ll8j4x6BF49BtsVEE+3sHoQC0/E=
+		</data>
+		<key>MLKitObjectDetectionCommonResources.bundle/Info.plist</key>
+		<data>
+		/HYpPjTmR9Jc6TDXGodoaYBPSuE=
+		</data>
+		<key>MLKitObjectDetectionCommonResources.bundle/mobile_object_localizer_3_1_anchors.pb</key>
+		<data>
+		UQlVfpJHT3mpKw+zJjDXtIduup4=
+		</data>
+		<key>MLKitObjectDetectionCommonResources.bundle/mobile_object_localizer_labelmap.binarypb</key>
+		<data>
+		Lvzl8sOvVQQ/KCFZlmSSafDw15w=
+		</data>
+		<key>MLKitObjectDetectionCommonResources.bundle/tflite_mobile_object_localizer_3_1.tflite</key>
+		<data>
+		X/St4fXSxPand8U4CxGe23+VP7c=
+		</data>
+		<key>MLKitObjectDetectionResources.bundle/Info.plist</key>
+		<data>
+		dskwKW2JdMi1ogyLY7KKBRUti00=
+		</data>
+		<key>MLKitObjectDetectionResources.bundle/mobile_object_classifier_v0_2_3_with_metadata.tflite</key>
+		<data>
+		FHLvPSpbKAgRD38EZXDuy7SoJsQ=
 		</data>
 		<key>Modules/AccuraOCR.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		Y+iCh0+mAW7oSut6/KP4fNIx8+s=
+		ynhHPED6GLUUKeHIk+R8BoroYhk=
 		</data>
 		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		ObiE8JadkWdX06PTvbXKaW82Pio=
+		8+x9klvhz6lG8RjABTy4FpyrRVA=
 		</data>
 		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		T8TczZzFH662917l5LAGzBMJuvM=
+		YA8A5OA7EUxYov5manmiZIBE+BU=
 		</data>
 		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -62,11 +86,11 @@
 		</data>
 		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		T8TczZzFH662917l5LAGzBMJuvM=
+		YA8A5OA7EUxYov5manmiZIBE+BU=
 		</data>
 		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		BGI/OJSudOrXI3JcZ7Q+nJ7vJbQ=
+		GQ1vs+9fx5/75XD8lhdTVFuwXzo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -113,7 +137,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5HNo0Ufq67Ap0KI6b9CCb9076i0GABWtsu1KwCAg/18=
+			smxZIwXWEOtt6YGU3uqhwnKLkkJtPGvsIm3ANSimBvg=
 			</data>
 		</dict>
 		<key>Headers/AccuraOCR.h</key>
@@ -158,25 +182,67 @@
 			Kkp0smMMUO4CIYUNW6yL5B11DfE8s5bCohNsMNWgALw=
 			</data>
 		</dict>
+		<key>MLKitObjectDetectionCommonResources.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2llc/zaOXTIo/y1Ye9+lRAys35M9xflk3qZTpIlngW0=
+			</data>
+		</dict>
+		<key>MLKitObjectDetectionCommonResources.bundle/mobile_object_localizer_3_1_anchors.pb</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mTKguCRx5Q3v8PkmIJsIR06G8CgauQ0HJ2t3juYGz0A=
+			</data>
+		</dict>
+		<key>MLKitObjectDetectionCommonResources.bundle/mobile_object_localizer_labelmap.binarypb</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rn1PTC6Ync53nfca1gTKgeyTNNaCbu8WjqsO6RnwxDc=
+			</data>
+		</dict>
+		<key>MLKitObjectDetectionCommonResources.bundle/tflite_mobile_object_localizer_3_1.tflite</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			M2eP5Mud1pzNw7lurfUhznLLHXkUl0pmkARt005EPhM=
+			</data>
+		</dict>
+		<key>MLKitObjectDetectionResources.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			avq6DPVmEaZnxzQc+/7vUyWyJhz4MoJEJB7cIMa4Urw=
+			</data>
+		</dict>
+		<key>MLKitObjectDetectionResources.bundle/mobile_object_classifier_v0_2_3_with_metadata.tflite</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ANH1Sxf7/uYdzQuEPDUHL+ewp0UzzhQUiAM3WWlAeAM=
+			</data>
+		</dict>
 		<key>Modules/AccuraOCR.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WHAxBwmWST18KybnvwYYWbRpcDQ4Gu+0bJ1zW6dzfaw=
+			XUayVKWhbH7DnxAzmsS8yUapG4VbXoL6h/89xaRLuvI=
 			</data>
 		</dict>
 		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SpJYg9JAix9r9Qgy0wrDUe8VZsJ8ad0AmLacjOYTJcg=
+			k4IFwTJfjEqOp2nkni+zCiZRtFgdp5ShwaFMZnAjd0I=
 			</data>
 		</dict>
 		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sdcIzl4Cl+9OtARwrYZUd0ki1tHvLt1RaZaw5+HXJOM=
+			xl7cT4JEah3YFT8hlNX8qTbVTxR2/2BpsmBX418RPRk=
 			</data>
 		</dict>
 		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -190,14 +256,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sdcIzl4Cl+9OtARwrYZUd0ki1tHvLt1RaZaw5+HXJOM=
+			xl7cT4JEah3YFT8hlNX8qTbVTxR2/2BpsmBX418RPRk=
 			</data>
 		</dict>
 		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7pRIX3O0hQVMqBnvx8KnlP4tqgJNec9H8oEAqsBpPUI=
+			KwrY4kyHvEmNmMNTEQsqicpBtcE/0leltPywAzXuCNE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

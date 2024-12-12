@@ -19,6 +19,27 @@
         "moduleName": "AccuraOCR"
       },
       {
+        "kind": "Import",
+        "name": "MLKitObjectDetection",
+        "printedName": "MLKitObjectDetection",
+        "declKind": "Import",
+        "moduleName": "AccuraOCR"
+      },
+      {
+        "kind": "Import",
+        "name": "MLImage",
+        "printedName": "MLImage",
+        "declKind": "Import",
+        "moduleName": "AccuraOCR"
+      },
+      {
+        "kind": "Import",
+        "name": "MLKit",
+        "printedName": "MLKit",
+        "declKind": "Import",
+        "moduleName": "AccuraOCR"
+      },
+      {
         "kind": "TypeDecl",
         "name": "Encryption",
         "printedName": "Encryption",
@@ -158,6 +179,333 @@
             "declAttributes": [
               "AccessControl",
               "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "processImageAndCrop2",
+            "printedName": "processImageAndCrop2(image:originalImage:completion:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIImage",
+                "printedName": "UIKit.UIImage",
+                "usr": "c:objc(cs)UIImage"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIImage",
+                "printedName": "UIKit.UIImage",
+                "usr": "c:objc(cs)UIImage"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(UIKit.UIImage?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIImage?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIImage",
+                        "printedName": "UIKit.UIImage",
+                        "usr": "c:objc(cs)UIImage"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9AccuraOCR10EncryptionC20processImageAndCrop25image08originalE010completionySo7UIImageC_AIyAISgctF",
+            "mangledName": "$s9AccuraOCR10EncryptionC20processImageAndCrop25image08originalE010completionySo7UIImageC_AIyAISgctF",
+            "moduleName": "AccuraOCR",
+            "isOpen": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "cropImageByPercentage",
+            "printedName": "cropImageByPercentage(image:percentage:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIImage?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIImage",
+                    "printedName": "UIKit.UIImage",
+                    "usr": "c:objc(cs)UIImage"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIImage",
+                "printedName": "UIKit.UIImage",
+                "usr": "c:objc(cs)UIImage"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "hasDefaultArg": true,
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9AccuraOCR10EncryptionC21cropImageByPercentage5image10percentageSo7UIImageCSgAH_14CoreFoundation7CGFloatVtF",
+            "mangledName": "$s9AccuraOCR10EncryptionC21cropImageByPercentage5image10percentageSo7UIImageCSgAH_12CoreGraphics7CGFloatVtF",
+            "moduleName": "AccuraOCR",
+            "isOpen": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "cropImageAsymmetrically",
+            "printedName": "cropImageAsymmetrically(image:topPercentage:bottomPercentage:sidePercentage:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIImage?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIImage",
+                    "printedName": "UIKit.UIImage",
+                    "usr": "c:objc(cs)UIImage"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIImage",
+                "printedName": "UIKit.UIImage",
+                "usr": "c:objc(cs)UIImage"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "hasDefaultArg": true,
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "hasDefaultArg": true,
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "hasDefaultArg": true,
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9AccuraOCR10EncryptionC23cropImageAsymmetrically5image13topPercentage06bottomI004sideI0So7UIImageCSgAJ_14CoreFoundation7CGFloatVA2NtF",
+            "mangledName": "$s9AccuraOCR10EncryptionC23cropImageAsymmetrically5image13topPercentage06bottomI004sideI0So7UIImageCSgAJ_12CoreGraphics7CGFloatVA2NtF",
+            "moduleName": "AccuraOCR",
+            "isOpen": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "cropImageByCustomPercentage",
+            "printedName": "cropImageByCustomPercentage(image:verticalPercentage:horizontalPercentage:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIImage?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIImage",
+                    "printedName": "UIKit.UIImage",
+                    "usr": "c:objc(cs)UIImage"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIImage",
+                "printedName": "UIKit.UIImage",
+                "usr": "c:objc(cs)UIImage"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "hasDefaultArg": true,
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "hasDefaultArg": true,
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9AccuraOCR10EncryptionC27cropImageByCustomPercentage5image08verticalH0010horizontalH0So7UIImageCSgAI_14CoreFoundation7CGFloatVAMtF",
+            "mangledName": "$s9AccuraOCR10EncryptionC27cropImageByCustomPercentage5image08verticalH0010horizontalH0So7UIImageCSgAI_12CoreGraphics7CGFloatVAMtF",
+            "moduleName": "AccuraOCR",
+            "isOpen": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "processImageAndCrop",
+            "printedName": "processImageAndCrop(image:completion:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIImage",
+                "printedName": "UIKit.UIImage",
+                "usr": "c:objc(cs)UIImage"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(UIKit.UIImage?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIImage?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIImage",
+                        "printedName": "UIKit.UIImage",
+                        "usr": "c:objc(cs)UIImage"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@AccuraOCR@objc(cs)Encryption(im)processImageAndCropWithImage:completion:",
+            "mangledName": "$s9AccuraOCR10EncryptionC19processImageAndCrop5image10completionySo7UIImageC_yAHSgctF",
+            "moduleName": "AccuraOCR",
+            "isOpen": true,
+            "objc_name": "processImageAndCropWithImage:completion:",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "addBordersToImage",
+            "printedName": "addBordersToImage(image:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIImage?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIImage",
+                    "printedName": "UIKit.UIImage",
+                    "usr": "c:objc(cs)UIImage"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIImage",
+                "printedName": "UIKit.UIImage",
+                "usr": "c:objc(cs)UIImage"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9AccuraOCR10EncryptionC17addBordersToImage5imageSo7UIImageCSgAG_tF",
+            "mangledName": "$s9AccuraOCR10EncryptionC17addBordersToImage5imageSo7UIImageCSgAG_tF",
+            "moduleName": "AccuraOCR",
+            "isOpen": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "cropImageToFrame",
+            "printedName": "cropImageToFrame(image:frame:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIImage?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIImage",
+                    "printedName": "UIKit.UIImage",
+                    "usr": "c:objc(cs)UIImage"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIImage",
+                "printedName": "UIKit.UIImage",
+                "usr": "c:objc(cs)UIImage"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGRect",
+                "printedName": "CoreFoundation.CGRect",
+                "usr": "c:@S@CGRect"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9AccuraOCR10EncryptionC16cropImageToFrame5image5frameSo7UIImageCSgAH_So6CGRectVtF",
+            "mangledName": "$s9AccuraOCR10EncryptionC16cropImageToFrame5image5frameSo7UIImageCSgAH_So6CGRectVtF",
+            "moduleName": "AccuraOCR",
+            "isOpen": true,
+            "declAttributes": [
+              "RawDocComment"
             ],
             "funcSelfKind": "NonMutating"
           },
@@ -1523,21 +1871,63 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/apple\/Library\/Developer\/Xcode\/DerivedData\/AccuraOCR-bjxkitxqtgbszsdvwgarciwueylo\/Build\/Intermediates.noindex\/AccuraOCR.build\/Debug-iphoneos\/AccuraOCR.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/apple\/Desktop\/MICR\/Saeed Framework\/ios-ocr-framework\/AccuraOCR\/External\/encrypt.swift",
+      "kind": "FloatLiteral",
+      "offset": 7083,
+      "length": 4,
+      "value": "0.20"
+    },
+    {
+      "filePath": "\/Users\/apple\/Desktop\/MICR\/Saeed Framework\/ios-ocr-framework\/AccuraOCR\/External\/encrypt.swift",
+      "kind": "FloatLiteral",
+      "offset": 7915,
+      "length": 4,
+      "value": "0.05"
+    },
+    {
+      "filePath": "\/Users\/apple\/Desktop\/MICR\/Saeed Framework\/ios-ocr-framework\/AccuraOCR\/External\/encrypt.swift",
+      "kind": "FloatLiteral",
+      "offset": 7949,
+      "length": 4,
+      "value": "0.20"
+    },
+    {
+      "filePath": "\/Users\/apple\/Desktop\/MICR\/Saeed Framework\/ios-ocr-framework\/AccuraOCR\/External\/encrypt.swift",
+      "kind": "FloatLiteral",
+      "offset": 7981,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/apple\/Desktop\/MICR\/Saeed Framework\/ios-ocr-framework\/AccuraOCR\/External\/encrypt.swift",
+      "kind": "FloatLiteral",
+      "offset": 8997,
+      "length": 4,
+      "value": "0.20"
+    },
+    {
+      "filePath": "\/Users\/apple\/Desktop\/MICR\/Saeed Framework\/ios-ocr-framework\/AccuraOCR\/External\/encrypt.swift",
+      "kind": "FloatLiteral",
+      "offset": 9035,
+      "length": 4,
+      "value": "0.10"
+    },
+    {
+      "filePath": "\/Users\/apple\/Library\/Developer\/Xcode\/DerivedData\/AccuraOCR-dxyvftjkdpoeguefyksfzarjwvfy\/Build\/Intermediates.noindex\/AccuraOCR.build\/Debug-iphoneos\/AccuraOCR.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 741,
       "length": 16,
       "value": "\"accuraScanLogo\""
     },
     {
-      "filePath": "\/Users\/apple\/Library\/Developer\/Xcode\/DerivedData\/AccuraOCR-bjxkitxqtgbszsdvwgarciwueylo\/Build\/Intermediates.noindex\/AccuraOCR.build\/Debug-iphoneos\/AccuraOCR.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/apple\/Library\/Developer\/Xcode\/DerivedData\/AccuraOCR-dxyvftjkdpoeguefyksfzarjwvfy\/Build\/Intermediates.noindex\/AccuraOCR.build\/Debug-iphoneos\/AccuraOCR.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 884,
       "length": 11,
       "value": "\"icn_close\""
     },
     {
-      "filePath": "\/Users\/apple\/Library\/Developer\/Xcode\/DerivedData\/AccuraOCR-bjxkitxqtgbszsdvwgarciwueylo\/Build\/Intermediates.noindex\/AccuraOCR.build\/Debug-iphoneos\/AccuraOCR.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/apple\/Library\/Developer\/Xcode\/DerivedData\/AccuraOCR-dxyvftjkdpoeguefyksfzarjwvfy\/Build\/Intermediates.noindex\/AccuraOCR.build\/Debug-iphoneos\/AccuraOCR.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1013,
       "length": 6,

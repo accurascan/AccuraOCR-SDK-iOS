@@ -6,6 +6,9 @@
 import CommonCrypto
 import DeveloperToolsSupport
 import Foundation
+import MLImage
+import MLKit
+import MLKitObjectDetection
 import Swift
 import SwiftUI
 import UIKit
@@ -16,6 +19,7 @@ import _SwiftConcurrencyShims
   @objc public func aesEncrypt(data: Foundation.Data, keyData: Foundation.Data, ivData: Foundation.Data) -> Foundation.Data?
   @objc public func encryptImage(image: UIKit.UIImage, key: Swift.String, iv: Swift.String) -> Foundation.NSData?
   @objc public func updateExifAttributesAndReturnData(of originalImageData: UIKit.UIImage) -> Foundation.Data?
+  @objc public func processImageAndCrop(image: UIKit.UIImage, completion: @escaping (UIKit.UIImage?) -> Swift.Void)
   @objc override dynamic public init()
   @objc deinit
 }
