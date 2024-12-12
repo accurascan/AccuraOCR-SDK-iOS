@@ -1,5 +1,4 @@
 Pod::Spec.new do |spec|
-
   spec.name         = "AccuraMICR"
   spec.version      = "4.0.5"
   spec.summary      = "Accura OCR is used for Optical character recognition."
@@ -15,12 +14,10 @@ Pod::Spec.new do |spec|
   spec.requires_arc = true
   spec.swift_version = "5.0"
   spec.exclude_files = "accuraocrSDK/*/.{png}"
-  spec.dependency 'GoogleMLKit'
-    spec.dependency 'GoogleMLKit/ObjectDetection', '7.0.0'
-    spec.dependency 'GoogleMLKit/ObjectDetectionCustom', '7.0.0'
+    spec.dependency 'GoogleMLKit/ObjectDetection', '~> 7.0.0'
+    spec.dependency 'GoogleMLKit/ObjectDetectionCustom', '~> 7.0.0'
   spec.pod_target_xcconfig = {
     'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
   }
   spec.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
-
 end
