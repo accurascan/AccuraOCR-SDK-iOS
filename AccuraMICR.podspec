@@ -14,8 +14,8 @@ Pod::Spec.new do |spec|
   spec.requires_arc = true
   spec.swift_version = "5.0"
   spec.exclude_files = "accuraocrSDK/*/.{png}"
-    spec.dependency 'GoogleMLKit/ObjectDetection'
-    spec.dependency 'GoogleMLKit/ObjectDetectionCustom'
+    spec.dependency 'GoogleMLKit/ObjectDetection','~> 2.0.0'
+    spec.dependency 'GoogleMLKit/ObjectDetectionCustom','~> 2.0.0'
   spec.pod_target_xcconfig = {
     'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
   }
