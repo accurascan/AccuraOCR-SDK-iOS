@@ -6,7 +6,7 @@ Pod::Spec.new do |spec|
   spec.homepage     = "https://github.com/accurascan/iOS-KYC"
   spec.license      = "MIT"
   spec.author       = { "AccuraScan" => "connect@accurascan.com" }
-  spec.platform     = :ios, "12.0"
+  spec.platform     = :ios, "15.5"
   spec.static_framework = true
   spec.source       = { :git => "https://github.com/accurascan/AccuraOCR-SDK-iOS.git", :tag => "4.0.5.2" }
   spec.preserve_paths = 'AccuraOCR.framework'
@@ -14,8 +14,8 @@ Pod::Spec.new do |spec|
   spec.requires_arc = true
   spec.swift_version = "5.0"
   spec.exclude_files = "accuraocrSDK/*/.{png}"
-    spec.dependency 'GoogleMLKit/ObjectDetection','~> 2.0.0'
-    spec.dependency 'GoogleMLKit/ObjectDetectionCustom','~> 2.0.0'
+    spec.dependency 'GoogleMLKit/ObjectDetection','~> 7.0.0'
+    spec.dependency 'GoogleMLKit/ObjectDetectionCustom','~> 7.0.0'
   spec.pod_target_xcconfig = {
     'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
   }
