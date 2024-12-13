@@ -321,6 +321,45 @@
           },
           {
             "kind": "Function",
+            "name": "resizeImage",
+            "printedName": "resizeImage(image:percentage:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIImage?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIImage",
+                    "printedName": "UIKit.UIImage",
+                    "usr": "c:objc(cs)UIImage"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIImage",
+                "printedName": "UIKit.UIImage",
+                "usr": "c:objc(cs)UIImage"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9AccuraOCR10EncryptionC11resizeImage5image10percentageSo7UIImageCSgAH_14CoreFoundation7CGFloatVtF",
+            "mangledName": "$s9AccuraOCR10EncryptionC11resizeImage5image10percentageSo7UIImageCSgAH_12CoreGraphics7CGFloatVtF",
+            "moduleName": "AccuraOCR",
+            "isOpen": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "processImageAndCrop",
             "printedName": "processImageAndCrop(image:completion:)",
             "children": [
