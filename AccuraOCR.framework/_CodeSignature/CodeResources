@@ -46,7 +46,7 @@
 		</data>
 		<key>MLKitObjectDetectionCommonResources.bundle/Info.plist</key>
 		<data>
-		/HYpPjTmR9Jc6TDXGodoaYBPSuE=
+		T7qLslquODrv/wgfy5OqEjUsytQ=
 		</data>
 		<key>MLKitObjectDetectionCommonResources.bundle/mobile_object_localizer_3_1_anchors.pb</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>MLKitObjectDetectionResources.bundle/Info.plist</key>
 		<data>
-		dskwKW2JdMi1ogyLY7KKBRUti00=
+		yYGTrcljlnnLMjkD+KmCEMulE1o=
 		</data>
 		<key>MLKitObjectDetectionResources.bundle/mobile_object_classifier_v0_2_3_with_metadata.tflite</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		1YprCUn5WGnly0LTlsS6Z94qwUs=
+		Duiwua2LxeChQPY+WSXrnLEaUHg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -186,7 +186,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2llc/zaOXTIo/y1Ye9+lRAys35M9xflk3qZTpIlngW0=
+			xLDQYOVx3z51CxSUHjxHmYEnQ0L/cWHWUOSOPm6l08U=
 			</data>
 		</dict>
 		<key>MLKitObjectDetectionCommonResources.bundle/mobile_object_localizer_3_1_anchors.pb</key>
@@ -214,7 +214,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			avq6DPVmEaZnxzQc+/7vUyWyJhz4MoJEJB7cIMa4Urw=
+			2j2iU+4tk53PbiKyzh9qnQaDL3WeNSFDmNlS7NzMlkQ=
 			</data>
 		</dict>
 		<key>MLKitObjectDetectionResources.bundle/mobile_object_classifier_v0_2_3_with_metadata.tflite</key>
@@ -263,7 +263,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			F86fN2ojJNU2KNLG0fhK6tKTlRQ2mnKv8hBPRY7V3k4=
+			OrRw8x6GGmwikGEesb5WM920fcPBZSoTtltF+Se+Ekg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
