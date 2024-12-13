@@ -19,6 +19,20 @@
         "moduleName": "AccuraOCR"
       },
       {
+        "kind": "Import",
+        "name": "MLKitObjectDetection",
+        "printedName": "MLKitObjectDetection",
+        "declKind": "Import",
+        "moduleName": "AccuraOCR"
+      },
+      {
+        "kind": "Import",
+        "name": "MLKitVision",
+        "printedName": "MLKitVision",
+        "declKind": "Import",
+        "moduleName": "AccuraOCR"
+      },
+      {
         "kind": "TypeDecl",
         "name": "Encryption",
         "printedName": "Encryption",
@@ -307,6 +321,61 @@
           },
           {
             "kind": "Function",
+            "name": "processImageAndCrop",
+            "printedName": "processImageAndCrop(image:completion:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIImage",
+                "printedName": "UIKit.UIImage",
+                "usr": "c:objc(cs)UIImage"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(UIKit.UIImage?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIImage?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIImage",
+                        "printedName": "UIKit.UIImage",
+                        "usr": "c:objc(cs)UIImage"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@AccuraOCR@objc(cs)Encryption(im)processImageAndCropWithImage:completion:",
+            "mangledName": "$s9AccuraOCR10EncryptionC19processImageAndCrop5image10completionySo7UIImageC_yAHSgctF",
+            "moduleName": "AccuraOCR",
+            "isOpen": true,
+            "objc_name": "processImageAndCropWithImage:completion:",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "addBordersToImage",
             "printedName": "addBordersToImage(image:)",
             "children": [
@@ -336,9 +405,6 @@
             "mangledName": "$s9AccuraOCR10EncryptionC17addBordersToImage5imageSo7UIImageCSgAG_tF",
             "moduleName": "AccuraOCR",
             "isOpen": true,
-            "declAttributes": [
-              "RawDocComment"
-            ],
             "funcSelfKind": "NonMutating"
           },
           {

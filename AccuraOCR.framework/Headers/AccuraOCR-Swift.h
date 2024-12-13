@@ -311,6 +311,7 @@ SWIFT_CLASS("_TtC9AccuraOCR10Encryption")
 - (NSData * _Nullable)aesEncryptWithData:(NSData * _Nonnull)data keyData:(NSData * _Nonnull)keyData ivData:(NSData * _Nonnull)ivData SWIFT_WARN_UNUSED_RESULT;
 - (NSData * _Nullable)encryptImageWithImage:(UIImage * _Nonnull)image key:(NSString * _Nonnull)key iv:(NSString * _Nonnull)iv SWIFT_WARN_UNUSED_RESULT;
 - (NSData * _Nullable)updateExifAttributesAndReturnDataOf:(UIImage * _Nonnull)originalImageData SWIFT_WARN_UNUSED_RESULT;
+- (void)processImageAndCropWithImage:(UIImage * _Nonnull)image completion:(void (^ _Nonnull)(UIImage * _Nullable))completion;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
