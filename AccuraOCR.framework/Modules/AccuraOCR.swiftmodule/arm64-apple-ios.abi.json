@@ -213,9 +213,6 @@
             "mangledName": "$s9AccuraOCR10EncryptionC21cropImageByPercentage5image10percentageSo7UIImageCSgAH_12CoreGraphics7CGFloatVtF",
             "moduleName": "AccuraOCR",
             "isOpen": true,
-            "declAttributes": [
-              "RawDocComment"
-            ],
             "funcSelfKind": "NonMutating"
           },
           {
@@ -1851,63 +1848,63 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/apple\/Desktop\/MICR\/Saeed Framework\/ios-ocr-framework\/AccuraOCR\/External\/encrypt.swift",
+      "filePath": "\/Users\/apple\/Desktop\/MICR\/current\/Saeed Framework\/ios-ocr-framework\/AccuraOCR\/External\/encrypt.swift",
       "kind": "FloatLiteral",
-      "offset": 7187,
+      "offset": 4885,
       "length": 4,
       "value": "0.20"
     },
     {
-      "filePath": "\/Users\/apple\/Desktop\/MICR\/Saeed Framework\/ios-ocr-framework\/AccuraOCR\/External\/encrypt.swift",
+      "filePath": "\/Users\/apple\/Desktop\/MICR\/current\/Saeed Framework\/ios-ocr-framework\/AccuraOCR\/External\/encrypt.swift",
       "kind": "FloatLiteral",
-      "offset": 8019,
+      "offset": 5717,
       "length": 4,
       "value": "0.05"
     },
     {
-      "filePath": "\/Users\/apple\/Desktop\/MICR\/Saeed Framework\/ios-ocr-framework\/AccuraOCR\/External\/encrypt.swift",
+      "filePath": "\/Users\/apple\/Desktop\/MICR\/current\/Saeed Framework\/ios-ocr-framework\/AccuraOCR\/External\/encrypt.swift",
       "kind": "FloatLiteral",
-      "offset": 8053,
+      "offset": 5751,
       "length": 4,
       "value": "0.20"
     },
     {
-      "filePath": "\/Users\/apple\/Desktop\/MICR\/Saeed Framework\/ios-ocr-framework\/AccuraOCR\/External\/encrypt.swift",
+      "filePath": "\/Users\/apple\/Desktop\/MICR\/current\/Saeed Framework\/ios-ocr-framework\/AccuraOCR\/External\/encrypt.swift",
       "kind": "FloatLiteral",
-      "offset": 8085,
+      "offset": 5783,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/apple\/Desktop\/MICR\/Saeed Framework\/ios-ocr-framework\/AccuraOCR\/External\/encrypt.swift",
+      "filePath": "\/Users\/apple\/Desktop\/MICR\/current\/Saeed Framework\/ios-ocr-framework\/AccuraOCR\/External\/encrypt.swift",
       "kind": "FloatLiteral",
-      "offset": 9101,
+      "offset": 6799,
       "length": 4,
       "value": "0.20"
     },
     {
-      "filePath": "\/Users\/apple\/Desktop\/MICR\/Saeed Framework\/ios-ocr-framework\/AccuraOCR\/External\/encrypt.swift",
+      "filePath": "\/Users\/apple\/Desktop\/MICR\/current\/Saeed Framework\/ios-ocr-framework\/AccuraOCR\/External\/encrypt.swift",
       "kind": "FloatLiteral",
-      "offset": 9139,
+      "offset": 6837,
       "length": 4,
       "value": "0.10"
     },
     {
-      "filePath": "\/Users\/apple\/Library\/Developer\/Xcode\/DerivedData\/AccuraOCR-dxyvftjkdpoeguefyksfzarjwvfy\/Build\/Intermediates.noindex\/AccuraOCR.build\/Debug-iphoneos\/AccuraOCR.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/apple\/Library\/Developer\/Xcode\/DerivedData\/AccuraOCR-djrfwdbkrhdzhyghdlxlcxhqdjlb\/Build\/Intermediates.noindex\/AccuraOCR.build\/Debug-iphoneos\/AccuraOCR.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 741,
       "length": 16,
       "value": "\"accuraScanLogo\""
     },
     {
-      "filePath": "\/Users\/apple\/Library\/Developer\/Xcode\/DerivedData\/AccuraOCR-dxyvftjkdpoeguefyksfzarjwvfy\/Build\/Intermediates.noindex\/AccuraOCR.build\/Debug-iphoneos\/AccuraOCR.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/apple\/Library\/Developer\/Xcode\/DerivedData\/AccuraOCR-djrfwdbkrhdzhyghdlxlcxhqdjlb\/Build\/Intermediates.noindex\/AccuraOCR.build\/Debug-iphoneos\/AccuraOCR.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 884,
       "length": 11,
       "value": "\"icn_close\""
     },
     {
-      "filePath": "\/Users\/apple\/Library\/Developer\/Xcode\/DerivedData\/AccuraOCR-dxyvftjkdpoeguefyksfzarjwvfy\/Build\/Intermediates.noindex\/AccuraOCR.build\/Debug-iphoneos\/AccuraOCR.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/apple\/Library\/Developer\/Xcode\/DerivedData\/AccuraOCR-djrfwdbkrhdzhyghdlxlcxhqdjlb\/Build\/Intermediates.noindex\/AccuraOCR.build\/Debug-iphoneos\/AccuraOCR.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1013,
       "length": 6,
