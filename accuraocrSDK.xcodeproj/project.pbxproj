@@ -7,8 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		6655FA4E29BEE8560092FF3C /* AccuraOCR.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 184F0BAB24DD7255007B7C3E /* AccuraOCR.framework */; };
-		6655FA4F29BEE8560092FF3C /* AccuraOCR.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 184F0BAB24DD7255007B7C3E /* AccuraOCR.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		A3CC7FB024A45E520046694A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A3CC7FAE24A45E520046694A /* Main.storyboard */; };
 		A3CC7FB224A45E530046694A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A3CC7FB124A45E530046694A /* Assets.xcassets */; };
 		A3CC7FB524A45E530046694A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A3CC7FB324A45E530046694A /* LaunchScreen.storyboard */; };
@@ -21,7 +19,6 @@
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				6655FA4F29BEE8560092FF3C /* AccuraOCR.framework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -29,7 +26,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		184F0BAB24DD7255007B7C3E /* AccuraOCR.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = AccuraOCR.framework; sourceTree = "<group>"; };
+		185EADEE2D1404B200421DE6 /* AccuraOCR.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = AccuraOCR.xcframework; sourceTree = "<group>"; };
 		A3CC7FA524A45E520046694A /* accuraocrSDK.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = accuraocrSDK.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A3CC7FAF24A45E520046694A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		A3CC7FB124A45E530046694A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -42,7 +39,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6655FA4E29BEE8560092FF3C /* AccuraOCR.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -52,7 +48,7 @@
 		A3CC7F9C24A45E520046694A = {
 			isa = PBXGroup;
 			children = (
-				184F0BAB24DD7255007B7C3E /* AccuraOCR.framework */,
+				185EADEE2D1404B200421DE6 /* AccuraOCR.xcframework */,
 				A3CC7FA724A45E520046694A /* accuraocrSDK */,
 				A3CC7FA624A45E520046694A /* Products */,
 			);
