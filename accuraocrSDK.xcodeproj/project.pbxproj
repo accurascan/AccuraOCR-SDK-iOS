@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		18992B492D7EEA9B008B1EDF /* AccuraMICR.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 18992B482D7EEA9B008B1EDF /* AccuraMICR.framework */; };
 		A3CC7FB024A45E520046694A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A3CC7FAE24A45E520046694A /* Main.storyboard */; };
 		A3CC7FB224A45E530046694A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A3CC7FB124A45E530046694A /* Assets.xcassets */; };
 		A3CC7FB524A45E530046694A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A3CC7FB324A45E530046694A /* LaunchScreen.storyboard */; };
@@ -26,7 +27,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		185EADEE2D1404B200421DE6 /* AccuraOCR.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = AccuraOCR.xcframework; sourceTree = "<group>"; };
+		18992B482D7EEA9B008B1EDF /* AccuraMICR.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = AccuraMICR.framework; sourceTree = SOURCE_ROOT; };
 		A3CC7FA524A45E520046694A /* accuraocrSDK.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = accuraocrSDK.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A3CC7FAF24A45E520046694A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		A3CC7FB124A45E530046694A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -39,6 +40,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18992B492D7EEA9B008B1EDF /* AccuraMICR.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -48,7 +50,6 @@
 		A3CC7F9C24A45E520046694A = {
 			isa = PBXGroup;
 			children = (
-				185EADEE2D1404B200421DE6 /* AccuraOCR.xcframework */,
 				A3CC7FA724A45E520046694A /* accuraocrSDK */,
 				A3CC7FA624A45E520046694A /* Products */,
 			);
@@ -69,6 +70,7 @@
 				A3CC7FB124A45E530046694A /* Assets.xcassets */,
 				A3CC7FB324A45E530046694A /* LaunchScreen.storyboard */,
 				A3CC7FB624A45E530046694A /* Info.plist */,
+				18992B482D7EEA9B008B1EDF /* AccuraMICR.framework */,
 			);
 			path = accuraocrSDK;
 			sourceTree = "<group>";
