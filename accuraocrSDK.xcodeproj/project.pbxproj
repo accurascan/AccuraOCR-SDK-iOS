@@ -3,11 +3,11 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 54;
 	objects = {
 
 /* Begin PBXBuildFile section */
-		18992B492D7EEA9B008B1EDF /* AccuraMICR.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 18992B482D7EEA9B008B1EDF /* AccuraMICR.framework */; };
+		532BBC592DA42E6D006DFB07 /* AccuraOCR.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 532BBC582DA42E6D006DFB07 /* AccuraOCR.xcframework */; };
 		A3CC7FB024A45E520046694A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A3CC7FAE24A45E520046694A /* Main.storyboard */; };
 		A3CC7FB224A45E530046694A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A3CC7FB124A45E530046694A /* Assets.xcassets */; };
 		A3CC7FB524A45E530046694A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A3CC7FB324A45E530046694A /* LaunchScreen.storyboard */; };
@@ -27,7 +27,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		18992B482D7EEA9B008B1EDF /* AccuraMICR.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = AccuraMICR.framework; sourceTree = SOURCE_ROOT; };
+		532BBC582DA42E6D006DFB07 /* AccuraOCR.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = AccuraOCR.xcframework; sourceTree = "<group>"; };
 		A3CC7FA524A45E520046694A /* accuraocrSDK.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = accuraocrSDK.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A3CC7FAF24A45E520046694A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		A3CC7FB124A45E530046694A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -40,7 +40,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				18992B492D7EEA9B008B1EDF /* AccuraMICR.framework in Frameworks */,
+				532BBC592DA42E6D006DFB07 /* AccuraOCR.xcframework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -70,7 +70,7 @@
 				A3CC7FB124A45E530046694A /* Assets.xcassets */,
 				A3CC7FB324A45E530046694A /* LaunchScreen.storyboard */,
 				A3CC7FB624A45E530046694A /* Info.plist */,
-				18992B482D7EEA9B008B1EDF /* AccuraMICR.framework */,
+				532BBC582DA42E6D006DFB07 /* AccuraOCR.xcframework */,
 			);
 			path = accuraocrSDK;
 			sourceTree = "<group>";
