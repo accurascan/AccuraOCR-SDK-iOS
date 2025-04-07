@@ -14,6 +14,9 @@ Pod::Spec.new do |spec|
   spec.vendored_frameworks = 'AccuraOCR.xcframework'
   spec.requires_arc = true
   spec.swift_version = "5.0"
+
+  spec.dependency 'TensorFlowLiteTaskVision', '0.4.0'
+
   spec.exclude_files = "accuraocrSDK/*/.{png}"
   spec.pod_target_xcconfig = {
     'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
