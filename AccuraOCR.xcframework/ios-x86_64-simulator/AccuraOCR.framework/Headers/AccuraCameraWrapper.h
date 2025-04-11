@@ -124,6 +124,7 @@ typedef NS_ENUM(NSInteger, CardSidetoScan) {
 - (void)updateView:(UIView *)msg;
 -(void)restartMICR;
 -(void)setCropping:(BOOL)isCrop;
+-(void)setMicrBuffer:(int)percent;
 @end
 #endif
 
