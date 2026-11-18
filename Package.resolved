@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "tensorflow",
+      "kind" : "remoteSourceControl",
+      "location" : "https://git.accurascan.com/mahdi/tensorflow",
+      "state" : {
+        "revision" : "b65713b35524cf4f604bf97c1e18b34ad7591d2c",
+        "version" : "0.4.2"
+      }
+    }
+  ],
+  "version" : 2
+}
